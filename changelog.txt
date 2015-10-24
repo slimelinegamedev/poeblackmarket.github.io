@@ -1,6 +1,3 @@
-$UPDATE_ENABLED=true
-$LATEST_BASE_VERSION=0.6
-
 Version 0.6
 
 1. Clicking on item's name will now show the raw JSON, you can use this to view more information
