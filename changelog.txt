@@ -1,12 +1,13 @@
 Version 0.6
-
 1. Clicking on item's name will now show the raw JSON, you can use this to view more information
 2. Various bug fixes
 3. Added automatic update feature
 4. Improved modifiers search form
 
 Version 0.6.1
-
 1. Fixed bug in rarity controls
 2. Fixed bug in counting items found where the 3 spacers are counted
 3. Slightly improved error dialog
+
+Version 0.6.2
+1. Updated ladder data refresh delay to 10 mins
