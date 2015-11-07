@@ -1,5 +1,8 @@
 (scroll down to see more)
 
+Version 0.6.4
+1. Fixed critical bug: online only toggle button sometimes does not apply
+
 Version 0.6.3
 1. Fixed critical bug: ladder data is not applied to existing search result
 
