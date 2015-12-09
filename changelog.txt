@@ -1,4 +1,7 @@
 (scroll down to see more)
+Version 0.6.5
+1. Fixed critical bug: updated code to recent exile tools improvements
+2. Set Standard as default league
 
 Version 0.6.4
 1. Fixed critical bug: online only toggle button sometimes does not apply
