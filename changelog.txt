@@ -1,4 +1,8 @@
 (scroll down to see more)
+Version 0.6.6
+1. Updated leagues to talisman
+2. Disabled crit chance as it's bugged
+
 Version 0.6.5
 1. Fixed critical bug: updated code to recent exile tools improvements
 2. Set Standard as default league
